@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(126, 0, 230) ;
+}
+#outer{
+    height: 6px;
+    padding: 6px;
+    border: 6px solid rgb(255, 255, 255);
+    color: white;
+   background-color: black;
+    height: 30px;
+}
+#amazon{
+    text-decoration: none;
+}
+#textarea{
+    font-weight: 200;
+    height: 10px;
+    width: px;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(131, 123, 11);
+}
+#margine{
+    margin: 135px; 
+    text-decoration: none;
+}
+#footerdiv{
+    display: inline-block;
+    height: 100px;
+}
+#productname{
+    margin: 170px;
+}
+#footerdiv{
+    display: inline;
+    margin: 70px;
+}
+#footerd{
+    margin: 70px;
+}
+.divclass{
+    margin: 50px;
+}
+#divdiv{
+    height: 150px;
+    background-color: black;
+}
+#divfooter{    
+    margin-top:5%;
+    margin:70px;
+    display: inline-block;
+    color: white;
+}
